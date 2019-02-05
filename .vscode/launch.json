@@ -1,0 +1,50 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bad1",
+            "request": "launch",
+            "mainClass": "Bad1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bad2",
+            "request": "launch",
+            "mainClass": "Bad2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Bad3",
+            "request": "launch",
+            "mainClass": "Bad3"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GasMileage",
+            "request": "launch",
+            "mainClass": "GasMileage"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumberSequences",
+            "request": "launch",
+            "mainClass": "NumberSequences"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TemperatureConverter",
+            "request": "launch",
+            "mainClass": "TemperatureConverter"
+        }
+    ]
+}
